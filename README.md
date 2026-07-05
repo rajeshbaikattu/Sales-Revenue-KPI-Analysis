@@ -23,5 +23,3 @@ What’s your go‑to method for visualizing regional sales data? Let’s share 
 
 
 
-
-
