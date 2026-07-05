@@ -21,6 +21,13 @@
 
 What’s your go‑to method for visualizing regional sales data? Let’s share ideas 👇”
 
+# Dashboard Preview
+
+<img width="1167" height="713" alt="KPI Dashboard Image" src="https://github.com/user-attachments/assets/378811a2-a91e-49c4-aed2-68801ed5832a" />
+
+
+
+
 
 
 
