@@ -21,7 +21,8 @@
 
 What’s your go‑to method for visualizing regional sales data? Let’s share ideas 👇”
 
-![Alt text](https://github.com/rajeshbaikattu/Sales-Revenue-KPI-Analysis/commit/1095a4449beacabf4bd93c38e3cba3bd1c4997c7)
+
+
 
 
 
